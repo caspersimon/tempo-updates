@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Tempo Beta Updates</title>
-        <link>https://caspersimon.github.io/tempo-updates/</link>
-        <description>Public Sparkle appcast feed for Tempo beta direct-distribution updates.</description>
-        <language>en</language>
+        <title>Tempo</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 27 Mar 2026 15:14:59 +0100</pubDate>
+            <pubDate>Fri, 27 Mar 2026 15:19:31 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
