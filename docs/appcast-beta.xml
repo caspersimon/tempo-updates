@@ -1,9 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>Tempo Beta Updates</title>
-    <link>https://caspersimon.github.io/tempo-updates/</link>
-    <description>Public Sparkle appcast feed for Tempo beta direct-distribution updates.</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Tempo Beta Updates</title>
+        <link>https://caspersimon.github.io/tempo-updates/</link>
+        <description>Public Sparkle appcast feed for Tempo beta direct-distribution updates.</description>
+        <language>en</language>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 27 Mar 2026 15:14:59 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://caspersimon.github.io/tempo-updates/release-notes/Tempo-1.0-beta.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/caspersimon/tempo-updates/releases/download/Tempo-1.0-beta.dmg" length="224991952" type="application/octet-stream" sparkle:edSignature="nU0r9P0S/RxmEVhgFhPVXNiQ6XQbXMN+klDyKlZaUneDm1KSDSNWQ0BHD7akXj1hotG3pdz5WnbJweiWm9ArBQ=="/>
+        </item>
+    </channel>
 </rss>
