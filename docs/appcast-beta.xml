@@ -4,12 +4,12 @@
         <title>Tempo</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 27 Mar 2026 15:20:25 +0100</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <pubDate>Sat, 28 Mar 2026 13:06:28 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://caspersimon.github.io/tempo-updates/release-notes/beta/Tempo-1.0-beta.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/caspersimon/tempo-updates/releases/download/v1.0-beta.1/Tempo-1.0-beta.dmg" length="224991952" type="application/octet-stream" sparkle:edSignature="nU0r9P0S/RxmEVhgFhPVXNiQ6XQbXMN+klDyKlZaUneDm1KSDSNWQ0BHD7akXj1hotG3pdz5WnbJweiWm9ArBQ=="/>
+            <enclosure url="https://github.com/caspersimon/tempo-updates/releases/download/v1.0-beta.2/Tempo-1.0-beta.dmg" length="225221366" type="application/octet-stream" sparkle:edSignature="ZvHh2xKAxEdWb2bxlclzrKfxLH4bO8iR4RnUEW7azeOl3XsDEJK/6PDgzCeEBNUeeAyfMDxyt6Z1xZ/lfIxSAw=="/>
         </item>
     </channel>
 </rss>
