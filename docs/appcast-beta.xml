@@ -1,4 +1,4 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Tempo</title>
@@ -8,8 +8,8 @@
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/caspersimon/tempo-updates/releases/download/v1.0-beta.3/Tempo-1.0-beta.dmg" length="304073435" type="application/octet-stream" sparkle:edSignature="FABCsD3Ljl9Vid3iU5EqLp2citVwRoSVj2gxZpCWpFtK3E51w8qFDakeBMj7eYX7c2swAbH5tCEwDQAny3apAA=="/>
-        </item>
+            <enclosure url="https://github.com/caspersimon/tempo-updates/releases/download/v1.0-beta.3/Tempo-1.0-beta.dmg" length="304073435" type="application/octet-stream" sparkle:edSignature="FABCsD3Ljl9Vid3iU5EqLp2citVwRoSVj2gxZpCWpFtK3E51w8qFDakeBMj7eYX7c2swAbH5tCEwDQAny3apAA==" />
+        <sparkle:releaseNotesLink>https://caspersimon.github.io/tempo-updates/release-notes/beta/Tempo-1.0-beta.3.html</sparkle:releaseNotesLink></item>
         <item>
             <title>1.0</title>
             <pubDate>Sat, 28 Mar 2026 14:36:26 +0100</pubDate>
@@ -17,7 +17,7 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://caspersimon.github.io/tempo-updates/release-notes/beta/Tempo-1.0-beta.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/caspersimon/tempo-updates/releases/download/v1.0-beta.2/Tempo-1.0-beta.dmg" length="301961375" type="application/octet-stream" sparkle:edSignature="z2MFfYys+pm7YhQ1VneNxBRivILbLuEk3a+aWasy46TVOKKWoT/Vy6SSdeygRxNpKQr6/PnwsaoWrvCHiotYAA=="/>
+            <enclosure url="https://github.com/caspersimon/tempo-updates/releases/download/v1.0-beta.2/Tempo-1.0-beta.dmg" length="301961375" type="application/octet-stream" sparkle:edSignature="z2MFfYys+pm7YhQ1VneNxBRivILbLuEk3a+aWasy46TVOKKWoT/Vy6SSdeygRxNpKQr6/PnwsaoWrvCHiotYAA==" />
         </item>
     </channel>
 </rss>
